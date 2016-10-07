@@ -251,7 +251,7 @@ Guillermo, a Brooklyn native, currently resides in Chesapeake with his wife of 1
         '57c5e408e9ca4' => [
             'title' => 'Defensive Coding for Dummies',
             'presenters' => ['chad_gray'],
-            'description' => 'Learn to develop with these extreme defensive techniques.',
+            'description' => 'Writing code to defend malicious is one thing. Defending your code against uninformed developers is something else. In this session you will learn techniques to help you write better code and to help users make better use of your code',
         ],
         '57c5e408e9cdd' => [
             'title' => 'Lego Scrum',
